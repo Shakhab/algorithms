@@ -9,7 +9,7 @@
 ---
 <details>
 <summary>
-<a href="">A. A+B</a>
+<a href="Базовые алгоритмы/A.A+B.py">A. A+B</a>
 </summary>
 
 #### Условие
@@ -45,7 +45,7 @@
 
 <details>
 <summary>
-<a href="">B. Застёжка-молния</a>
+<a href="Базовые алгоритмы/B.Zipper closure.py">B. Застёжка-молния</a>
 </summary>
 
 #### Условие
