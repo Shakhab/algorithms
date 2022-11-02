@@ -233,7 +233,7 @@
 
 <details>
 <summary>
-<a href="Basic_algorithms/E.two_chip_extra.py">E. Две фишки экстра</a>
+<a href="Basic_algorithms/two_chip_extra.py">E. Две фишки экстра</a>
 </summary>
 
 #### Условие
