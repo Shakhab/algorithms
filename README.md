@@ -6,8 +6,6 @@
 
 ## 1. Введение в алгоритмы
 
-[contest.yandex.ru](https://contest.yandex.ru/contest/22450/problems/)
-
 ---
 
 <details>
